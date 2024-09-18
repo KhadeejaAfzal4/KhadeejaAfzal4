@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Looking to expand and apply my knowledge within the data analysis field.
+
+I am self-taught in MS Excel, Power BI & MySQL.
+Looking forward to learning Tableau & Python.
 <!--
 **KhadeejaAfzal4/KhadeejaAfzal4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
