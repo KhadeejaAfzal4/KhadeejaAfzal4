@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Looking to expand and apply my knowledge within the data analysis field.
+Eager to expand and apply my knowledge within the data analysis field.
 
 I am self-taught in MS Excel, Power BI & MySQL.
 Looking forward to learning Tableau & Python.
