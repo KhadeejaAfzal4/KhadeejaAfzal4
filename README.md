@@ -13,6 +13,8 @@ Designed and created a MySQL database for a travel flight booking system to gene
 Produced a Power BI report on customer data to showcase relationships between age groups, customer points and location. This has helped me build up confidence in constructing visuals and analysis of data.
 
 Conducted organization and data analysis on employee data in Excel using formulas & PivotTables in order to provide further details and patterns.
+
+Implemented formulas to calculate monthly net totals for each account in an Excel cashbook along with PivotCharts to highlight trends.
 <!--
 **KhadeejaAfzal4/KhadeejaAfzal4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
